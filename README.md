@@ -63,7 +63,7 @@ SQL (Cleaning & EDA) → Excel (Transfer) → Python (Analysis & ML) → Power B
 ## 📊 Dashboard Snapshots
 
 ### 🔹 Page 1: Executive Summary  
-![Dashboard Page 1]()
+![Dashboard Page 1](https://github.com/student423/Healthcare_Analysis/tree/main)
 
 ---
 
