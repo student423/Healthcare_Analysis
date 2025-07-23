@@ -68,7 +68,7 @@ SQL (Cleaning & EDA) → Excel (Transfer) → Python (Analysis & ML) → Power B
 ---
 
 ### 🔹 Page 2: Patient & Department Insights  
-![Dashboard Page 2]()
+![Dashboard Page 2](https://github.com/student423/Healthcare_Analysis/blob/main/healthcare_analysis%20dashboard-2.jpg)
 
 ---
 
